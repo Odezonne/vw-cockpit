@@ -1,0 +1,9 @@
+{
+  "name": "vw-cockpit",
+  "version": "1.0.0",
+  "description": "VW ID.5 Cockpit - Interface connectée via Smartcar",
+  "main": "api/vehicle.js",
+  "dependencies": {
+    "smartcar": "^5.0.0"
+  }
+}
